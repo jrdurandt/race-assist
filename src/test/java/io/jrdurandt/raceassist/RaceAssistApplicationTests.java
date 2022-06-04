@@ -1,4 +1,4 @@
-package com.example.raceassist;
+package io.jrdurandt.raceassist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.raceassist;
+package io.jrdurandt.raceassist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
